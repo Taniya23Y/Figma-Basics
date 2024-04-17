@@ -1,2 +1,2 @@
-# My-Figma_Design
+# My-Figma-Design
 ✨ Figma Design Repo ✨
