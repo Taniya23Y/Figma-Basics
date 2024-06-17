@@ -86,6 +86,12 @@ Learn about the basics of components and variants in Figma.
 - Best practices for component design
 
 ### 📌 Takeaways
+- **Reusability:** Components in Figma allow you to reuse design elements across different screens or instances, which helps maintain consistency and saves time in your design process.
+- **Efficiency with Variants:** Variants enable you to create multiple variations within a single component. This includes actions like swapping icons and toggling visibility, which add flexibility and streamline the design system.
+- **Component Manipulation:** Learn how to manipulate and modify components and their instances in Figma. This includes understanding and applying Boolean properties, instance swapping, and text properties.
+- **Organizational Benefits:** Utilizing instances within components simplifies editing and enhances the organization of your design system.
+- **Advanced Concepts:** The tutorial introduces nested instances and properties, leading to a deeper understanding of how variants can be used to optimize design systems.
+- **Library Syncing:** Detailed explanation of updating components across different files through libraries to ensure consistency and synchronization.
 
 
 ## 🧠 Lecture - 5 => Learn Figma Variables like a Pro In 2024
@@ -97,7 +103,18 @@ Ansh Mehra explains how to use variables in Figma like a professional.
 - Tips and tricks for advanced usage
 
 ### 📌 Takeaways
-*(To be added based on video content)*
+- **Types of Variables:** Figma supports multiple variable types including color, number, string, and Boolean.
+- **Color Variables:** Used for defining colors that can be reused across different components and themes.
+- **Number Variables:** Useful for setting numeric values like dimensions or quantities in your designs.
+- **String Variables:** Manage text content and labels dynamically.
+- **Boolean Variables:** Control toggles and visibility states within components.
+- **Multi-level Referencing:** Variables provide flexibility by allowing for complex referencing and adjustments within a design system.
+- **Organizational Benefits:** Grouping variables into collections helps maintain consistency and ease of access.
+- **Scoping Variables:** Variables can be scoped to different use cases, such as defining color palettes for light and dark themes or assigning specific values to components.
+- **Collections and Groups:** Organizing variables into collections and groups streamlines their management and application across your projects.
+- **Comparison with Styles:** Unlike styles, which support complex layering and properties, variables are simpler and cater to more straightforward value management.
+- **Interactive Prototypes:** Learn how to use variables to create dynamic prototypes. This includes setting up variables that change based on user interactions, like buttons triggering number count changes.
+- **Practical Examples:** The video provides step-by-step examples of setting up and manipulating variables within a prototype scenario to demonstrate their functionality.
 
 ## 📐 Lecture - 6 => UX Design Systems 101: a MUST Watch For Product Designers
 This video is essential for product designers looking to understand UX design systems.
