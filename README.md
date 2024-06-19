@@ -125,7 +125,17 @@ This video is essential for product designers looking to understand UX design sy
 - Examples from real-world projects
 
 ### 📌 Takeaways
-*(To be added based on video content)*
+- **Differentiation in Job Applications:** A strong understanding of design systems can set you apart from other job candidates.
+- **Enhanced User Experience:** Properly implemented design systems ensure consistency and improve the overall user experience in applications.
+- **Basic Design Principles:** Understanding the foundational principles is crucial for building a coherent design system.
+- **Components:** Learn how to effectively use components like buttons, input fields, and other UI elements.
+- **Styles and Tokens:** Explore the use of styles and tokens to maintain uniformity across different components and themes.
+- **Open-Source Libraries:** The instructor highlights the utility of open-source libraries like Tailwind CSS for integrating ready-made design elements.
+- **Design Guidelines:** Following established guidelines, such as Android's Material Design, helps in creating standardized and user-friendly interfaces.
+- **Figma's Capabilities:** Utilize Figma's robust features to create and manage design systems effectively.
+- **In-Depth Learning:** Dedicate time to thoroughly study each component, its guidelines, and specifications.
+- **Documentation:** Document your learnings and observations to solidify your foundational skills.
+- **Patience and Structure:** Avoid rushing through the learning process. Focus on a structured and patient approach to mastering the basics.
 
 ## 💻 Lecture - 7 => Figma Developer Handoff - Full Course Ep 7
 This tutorial covers the process of handing off designs to developers in Figma.
@@ -136,7 +146,24 @@ This tutorial covers the process of handing off designs to developers in Figma.
 - Best practices for a smooth handoff
 
 ### 📌 Takeaways
-*(To be added based on video content)*
+⛔ Could not find Add a comment button. Here is the entire summary:
+
+🎯 Key points for quick navigation:
+
+- **Basics of Figma vs. UX Design:** The course focuses on teaching Figma, not UX design. Understanding Design and Developer Handoff
+- **Steps involved in the handoff process from design completion to development Importance of aligning designer:** product manager, and developer expectations.
+- **Collaboration between Designer and Developer:** Initial collaboration between product manager, designer, and developer.Importance of clear communication to ensure feasibility and alignment.
+- **Handoff Variations in Different Contexts:** Varied approaches to handoff in startups, companies, and freelancing.Differences in requirements for native apps, web apps, and websites.
+- **Figma file structure foundation overview:** Establishing a project panel structure in Figma and Creating a dedicated project for Design Systems,Managing separate projects for iOS, Android, and web design
+- **Work in Progress (WIP) and Go-To-Market (GTM) file management:** Differentiating work in progress and final UI components, Utilizing libraries for efficient design workflow Transitioning from WIP to GTM smoothly
+- **Design Systems project organization:** Categorizing files in Design Systems project, Managing Universal guidelines and platform-specific components and Creating clear and informative thumbnail covers for Figma files
+- **Platform-specific project structure example:** Naming convention for project files based on platforms and features, Organizing design flows within Figma files and Localizing components for specific features on a platform**
+- **Handoff preparation and quick design tips:** Creating header components for Figma files, Tips for naming layers and organizing design files and Importance of auditing Figma files for proper handoff preparation
+- **Understanding CSS properties and inspect element:** CSS properties define visual appearance, Inspect element allows editing content and styles and Changes made in inspect element are local and a screenshot is needed before refreshing.
+- **Developer best practices for design handoff:** Take a screenshot before refreshing changes made in inspect element, Have a list of explicit changes made during the design review and Teach developers about inspect element and developer mode.
+- **Using sections in Figma for development readiness:** Sections help mark specific frames ready for development, Sections in Figma help organize design files for developers and Developers can easily identify frames ready for development in dev mode.
+- **Transitioning from design to dev with Figma's inspect panel:** In inspect panel, designers can view detailed UI components, Inspect panel provides access to colors, assets, and component variations and Designers can export assets and components directly from the inspect panel.
+
 
 ## 🖥️ Lecture - 8 => Figma Prototyping - Full Figma Course for Beginners Ep 8
 The final video in the series focuses on prototyping in Figma.
@@ -147,7 +174,31 @@ The final video in the series focuses on prototyping in Figma.
 - Testing and sharing prototypes
 
 ### 📌 Takeaways
-*(To be added based on video content)*
+- **Essential for Product Design:** Prototyping is crucial for visualizing and testing user interactions and flows in product design.
+- **Enhances UI Understanding:** Allows designers to simulate user experiences and make informed design decisions.
+- **Triggers:** Define how and when interactions start (e.g., on click, on drag).
+- **Actions:** Specify what happens when a trigger is activated (e.g., navigate to another frame).
+- **Destinations:** The target frame or component that the action will affect.
+- **Animations:** Visual transitions that occur during interactions.
+- **Easing:** Controls the speed and timing of animations.
+- **Duration:** Sets how long an animation or transition lasts.
+- **Scroll Position:** Maintains or resets the scroll position between frames for a smoother user experience.
+- **On Click:** Activates when a user clicks an element.
+- **On Drag:** Triggered by dragging actions.
+- **While Hovering/Pressing:** Engaged during hover or press events.
+- **Key/Gamepad:** Interaction through keyboard or gamepad inputs.
+- **After Delay:** Triggers an action after a specified time delay.
+- **Types of Easing:** Controls how animations accelerate or decelerate:
+  - **Linear:** Constant speed throughout.
+  - **Ease In:** Starts slow and accelerates.
+  - **Ease Out:** Starts fast and decelerates.
+  - **Ease In Back:** Starts slow, moves back slightly, then accelerates.
+  - **Ease Out Back:** Starts fast, overshoots, then settles.
+  - **Ease In and Out:** Combination of ease in and ease out for smooth transitions.
+  - **Ease In and Out Back:** Combination of easing in both directions with slight overshoot.
+- **Layer Naming:** Accurate layer naming is crucial for Figma's Smart Animate to work effectively, enabling smooth transitions between similar layers.
+- **Variant Components:** Using variant components to create different states (e.g., hover, selected) and integrating them into prototypes.
+- **Interactive Tabs:** Creating and prototyping tabs with different interactive states.
 
 ## 📚 Additional Resources
 Here are some additional resources to further enhance your Figma skills:
